@@ -1,0 +1,24 @@
+{
+  "name": "dontscrollthebody",
+  "description": "Prevent scroll in HTML parent element",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ibc/dontscrollthebody/",
+  "author": "Iñaki Baz Castillo <ibc@aliax.net>",
+  "main": "index.js",
+  "keywords": [
+    "html5",
+    "scroll"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibc/dontscrollthebody.git"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "gulp": "git+https://github.com/gulpjs/gulp.git#4.0",
+    "gulp-rename": "^1.2.2",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
