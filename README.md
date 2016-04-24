@@ -8,6 +8,14 @@ A minimalist JavaScript library that prevents scroll in the HTML parent element 
 * http://jsfiddle.net/ibcaliax/bwmzfmq7/9/
 
 
+## Why?
+
+Because I was tired of ugly solutions such as:
+
+* setting `overflow: hidden` into the `<body>` while scrolling a child element (this makes the page vertical scroll appear and disappear causing a dissapoiting visual efect), or
+* preventing the browser native scroll by manually increasing `child.scrollTop` value (so bye bye browser's smooth scrolling)
+
+
 ## Installation
 
 ```bash
