@@ -1,0 +1,21 @@
+{
+  "name": "dontscrollthebody",
+  "description": "Prevent scroll in HTML parent element",
+  "main": "dist/dontscrollthebody.js",
+  "homepage": "https://github.com/ibc/dontscrollthebody/",
+  "authors": [
+    "Iñaki Baz Castillo <ibc@aliax.net> (https://github.com/ibc)"
+  ],
+  "keywords": [
+    "html5",
+    "scroll"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibc/dontscrollthebody.git"
+  },
+  "ignore": [
+    "node_modules"
+  ]
+}
